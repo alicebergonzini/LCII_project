@@ -1,0 +1,24 @@
+Unigrammi parole; bigrammi parole; unigrammi caratteri; bigrammi caratteri;
+Risultati Fold 1 -->  Accuracy modello: 0.6846733668341709 | Accuracy baseline: 0.5062814070351759  
+Risultati Fold 2 -->  Accuracy modello: 0.6959798994974874 | Accuracy baseline: 0.45226130653266333  
+Risultati Fold 3 -->  Accuracy modello: 0.6981132075471698 | Accuracy baseline: 0.5031446540880503  
+Risultati Fold 4 -->  Accuracy modello: 0.70062893081761 | Accuracy baseline: 0.47924528301886793  
+Risultati Fold 5 -->  Accuracy modello: 0.6918238993710691 | Accuracy baseline: 0.5069182389937107  
+Unigrammi lemmi; bigrammi lemmi; unigrammi part of speech; bigrammi part of speech;
+Risultati Fold 1 -->  Accuracy modello: 0.6834170854271356 | Accuracy baseline: 0.5062814070351759  
+Risultati Fold 2 -->  Accuracy modello: 0.6721105527638191 | Accuracy baseline: 0.45226130653266333  
+Risultati Fold 3 -->  Accuracy modello: 0.6918238993710691 | Accuracy baseline: 0.5031446540880503  
+Risultati Fold 4 -->  Accuracy modello: 0.6968553459119496 | Accuracy baseline: 0.47924528301886793  
+Risultati Fold 5 -->  Accuracy modello: 0.6817610062893081 | Accuracy baseline: 0.5069182389937107  
+Bigrammi parole; trigrammi parole; bigrammi caratteri; trigrammi caratteri; con filtro di 3
+Risultati Fold 1 -->  Accuracy modello: 0.6871859296482412 | Accuracy baseline: 0.5062814070351759  
+Risultati Fold 2 -->  Accuracy modello: 0.6934673366834171 | Accuracy baseline: 0.45226130653266333  
+Risultati Fold 3 -->  Accuracy modello: 0.6830188679245283 | Accuracy baseline: 0.5031446540880503  
+Risultati Fold 4 -->  Accuracy modello: 0.6880503144654088 | Accuracy baseline: 0.47924528301886793  
+Risultati Fold 5 -->  Accuracy modello: 0.6817610062893081 | Accuracy baseline: 0.5069182389937107  
+Bigrammi parole; trigrammi parole; bigrammi caratteri; trigrammi caratteri; con filtro di 6
+Risultati Fold 1 -->  Accuracy modello: 0.6859296482412061 | Accuracy baseline: 0.5062814070351759  
+Risultati Fold 2 -->  Accuracy modello: 0.6871859296482412 | Accuracy baseline: 0.45226130653266333  
+Risultati Fold 3 -->  Accuracy modello: 0.680503144654088 | Accuracy baseline: 0.5031446540880503  
+Risultati Fold 4 -->  Accuracy modello: 0.6779874213836478 | Accuracy baseline: 0.47924528301886793  
+Risultati Fold 5 -->  Accuracy modello: 0.680503144654088 | Accuracy baseline: 0.5069182389937107  
