@@ -4,21 +4,59 @@ Risultati Fold 2 -->  Accuracy modello: 0.6959798994974874 | Accuracy baseline: 
 Risultati Fold 3 -->  Accuracy modello: 0.6981132075471698 | Accuracy baseline: 0.5031446540880503  
 Risultati Fold 4 -->  Accuracy modello: 0.70062893081761 | Accuracy baseline: 0.47924528301886793  
 Risultati Fold 5 -->  Accuracy modello: 0.6918238993710691 | Accuracy baseline: 0.5069182389937107  
+Media: 0.6942438608135014
 Unigrammi lemmi; bigrammi lemmi; unigrammi part of speech; bigrammi part of speech;
 Risultati Fold 1 -->  Accuracy modello: 0.6834170854271356 | Accuracy baseline: 0.5062814070351759  
 Risultati Fold 2 -->  Accuracy modello: 0.6721105527638191 | Accuracy baseline: 0.45226130653266333  
 Risultati Fold 3 -->  Accuracy modello: 0.6918238993710691 | Accuracy baseline: 0.5031446540880503  
 Risultati Fold 4 -->  Accuracy modello: 0.6968553459119496 | Accuracy baseline: 0.47924528301886793  
 Risultati Fold 5 -->  Accuracy modello: 0.6817610062893081 | Accuracy baseline: 0.5069182389937107  
+Media: 0.6851935779526562
 Bigrammi parole; trigrammi parole; bigrammi caratteri; trigrammi caratteri; con filtro di 3
 Risultati Fold 1 -->  Accuracy modello: 0.6871859296482412 | Accuracy baseline: 0.5062814070351759  
 Risultati Fold 2 -->  Accuracy modello: 0.6934673366834171 | Accuracy baseline: 0.45226130653266333  
 Risultati Fold 3 -->  Accuracy modello: 0.6830188679245283 | Accuracy baseline: 0.5031446540880503  
 Risultati Fold 4 -->  Accuracy modello: 0.6880503144654088 | Accuracy baseline: 0.47924528301886793  
 Risultati Fold 5 -->  Accuracy modello: 0.6817610062893081 | Accuracy baseline: 0.5069182389937107  
+Media: 0.6866966910021807
 Bigrammi parole; trigrammi parole; bigrammi caratteri; trigrammi caratteri; con filtro di 6
 Risultati Fold 1 -->  Accuracy modello: 0.6859296482412061 | Accuracy baseline: 0.5062814070351759  
 Risultati Fold 2 -->  Accuracy modello: 0.6871859296482412 | Accuracy baseline: 0.45226130653266333  
 Risultati Fold 3 -->  Accuracy modello: 0.680503144654088 | Accuracy baseline: 0.5031446540880503  
 Risultati Fold 4 -->  Accuracy modello: 0.6779874213836478 | Accuracy baseline: 0.47924528301886793  
 Risultati Fold 5 -->  Accuracy modello: 0.680503144654088 | Accuracy baseline: 0.5069182389937107  
+Media: 0.6824218577162543
+Bigrammi caratteri; trigrammi caratteri; 4grammi caratteri; 5grammi caratteri;
+Risultati Fold 1 -->  Accuracy modello: 0.6959798994974874 | Accuracy baseline: 0.5062814070351759  
+Risultati Fold 2 -->  Accuracy modello: 0.7035175879396985 | Accuracy baseline: 0.45226130653266333  
+Risultati Fold 3 -->  Accuracy modello: 0.6817610062893081 | Accuracy baseline: 0.5031446540880503  
+Risultati Fold 4 -->  Accuracy modello: 0.6867924528301886 | Accuracy baseline: 0.47924528301886793  
+Risultati Fold 5 -->  Accuracy modello: 0.690566037735849 | Accuracy baseline: 0.5069182389937107  
+Media: 0.6917233968585064
+Unigrammi caratteri; unigrammi parole; unigrammi lemmi; unigrammi pos;
+Risultati Fold 1 -->  Accuracy modello: 0.7123115577889447 | Accuracy baseline: 0.5062814070351759  
+Risultati Fold 2 -->  Accuracy modello: 0.6871859296482412 | Accuracy baseline: 0.45226130653266333  
+Risultati Fold 3 -->  Accuracy modello: 0.6993710691823899 | Accuracy baseline: 0.5031446540880503  
+Risultati Fold 4 -->  Accuracy modello: 0.6893081761006289 | Accuracy baseline: 0.47924528301886793  
+Risultati Fold 5 -->  Accuracy modello: 0.6654088050314465 | Accuracy baseline: 0.5069182389937107  
+Media: 0.6907171075503302
+Unigrammi pos; bigrammi pos; unigrammi parole; bigrammi parole;
+Risultati Fold 1 -->  Accuracy modello: 0.6972361809045227 | Accuracy baseline: 0.5062814070351759  
+Risultati Fold 2 -->  Accuracy modello: 0.6733668341708543 | Accuracy baseline: 0.45226130653266333  
+Risultati Fold 3 -->  Accuracy modello: 0.6867924528301886 | Accuracy baseline: 0.5031446540880503  
+Risultati Fold 4 -->  Accuracy modello: 0.6754716981132075 | Accuracy baseline: 0.47924528301886793  
+Risultati Fold 5 -->  Accuracy modello: 0.6679245283018868 | Accuracy baseline: 0.5069182389937107 
+Media: 0.680158338864132 
+unigrammi lemmi; bigrammi lemmi; unigrammi parole; bigrammi parole;
+Risultati Fold 1 -->  Accuracy modello: 0.699748743718593 | Accuracy baseline: 0.5062814070351759  
+Risultati Fold 2 -->  Accuracy modello: 0.6884422110552764 | Accuracy baseline: 0.45226130653266333  
+Risultati Fold 3 -->  Accuracy modello: 0.6779874213836478 | Accuracy baseline: 0.5031446540880503  
+Risultati Fold 4 -->  Accuracy modello: 0.6968553459119496 | Accuracy baseline: 0.47924528301886793  
+Risultati Fold 5 -->  Accuracy modello: 0.7018867924528301 | Accuracy baseline: 0.5069182389937107 
+Media: 0.6929841029044593 
+unigrammi lemmi; bigrammi lemmi; unigrammi parole; bigrammi parole;
+Risultati Fold 1 -->  Accuracy modello: 0.6796482412060302 | Accuracy baseline: 0.5062814070351759  
+Risultati Fold 2 -->  Accuracy modello: 0.6670854271356784 | Accuracy baseline: 0.45226130653266333  
+Risultati Fold 3 -->  Accuracy modello: 0.7069182389937106 | Accuracy baseline: 0.5031446540880503  
+Risultati Fold 4 -->  Accuracy modello: 0.7069182389937106 | Accuracy baseline: 0.47924528301886793  
+Risultati Fold 5 -->  Accuracy modello: 0.6754716981132075 | Accuracy baseline: 0.5069182389937107  
