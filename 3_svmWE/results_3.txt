@@ -1,0 +1,64 @@
+Tutte PoS considerate, embeddings aggregati con con media
+Risultati Fold 1 -->  Accuracy modello: 0.678391959798995 | Accuracy baseline: 0.5062814070351759  
+Risultati Fold 2 -->  Accuracy modello: 0.6494974874371859 | Accuracy baseline: 0.45226130653266333  
+Risultati Fold 3 -->  Accuracy modello: 0.6742138364779874 | Accuracy baseline: 0.5031446540880503  
+Risultati Fold 4 -->  Accuracy modello: 0.6377358490566037 | Accuracy baseline: 0.47924528301886793  
+Risultati Fold 5 -->  Accuracy modello: 0.6553459119496855 | Accuracy baseline: 0.5069182389937107  
+Media: 0.6590370089440916
+Tutte PoS considerate, embeddings aggregati con con somma
+Risultati Fold 1 -->  Accuracy modello: 0.6520100502512562 | Accuracy baseline: 0.5062814070351759  
+Risultati Fold 2 -->  Accuracy modello: 0.6746231155778895 | Accuracy baseline: 0.45226130653266333  
+Risultati Fold 3 -->  Accuracy modello: 0.690566037735849 | Accuracy baseline: 0.5031446540880503  
+Risultati Fold 4 -->  Accuracy modello: 0.660377358490566 | Accuracy baseline: 0.47924528301886793  
+Risultati Fold 5 -->  Accuracy modello: 0.6754716981132075 | Accuracy baseline: 0.5069182389937107  
+Media: 0.6706096520337537
+Tutte PoS considerate, embeddings aggregati con con prodotto
+Risultati Fold 1 -->  Accuracy modello: 0.5050251256281407 | Accuracy baseline: 0.5062814070351759  
+Risultati Fold 2 -->  Accuracy modello: 0.4510050251256281 | Accuracy baseline: 0.45226130653266333  
+Risultati Fold 3 -->  Accuracy modello: 0.5031446540880503 | Accuracy baseline: 0.5031446540880503  
+Risultati Fold 4 -->  Accuracy modello: 0.47924528301886793 | Accuracy baseline: 0.47924528301886793  
+Risultati Fold 5 -->  Accuracy modello: 0.5094339622641509 | Accuracy baseline: 0.5069182389937107  
+Media: 0.4895708100249676
+Considerate solo parole piene, embeddings aggregati con con media
+Risultati Fold 1 -->  Accuracy modello: 0.6432160804020101 | Accuracy baseline: 0.5062814070351759  
+Risultati Fold 2 -->  Accuracy modello: 0.635678391959799 | Accuracy baseline: 0.45226130653266333  
+Risultati Fold 3 -->  Accuracy modello: 0.6364779874213836 | Accuracy baseline: 0.5031446540880503  
+Risultati Fold 4 -->  Accuracy modello: 0.6314465408805031 | Accuracy baseline: 0.47924528301886793  
+Risultati Fold 5 -->  Accuracy modello: 0.6377358490566037 | Accuracy baseline: 0.5069182389937107  
+Media: 0.6369109699440598
+Considerate solo parole piene, embeddings aggregati con con somma
+Risultati Fold 1 -->  Accuracy modello: 0.6381909547738693 | Accuracy baseline: 0.5062814070351759  
+Risultati Fold 2 -->  Accuracy modello: 0.635678391959799 | Accuracy baseline: 0.45226130653266333  
+Risultati Fold 3 -->  Accuracy modello: 0.6264150943396226 | Accuracy baseline: 0.5031446540880503  
+Risultati Fold 4 -->  Accuracy modello: 0.6289308176100629 | Accuracy baseline: 0.47924528301886793  
+Risultati Fold 5 -->  Accuracy modello: 0.6427672955974842 | Accuracy baseline: 0.5069182389937107  
+Media: 0.6343965108561676
+Considerate solo parole piene, embeddings aggregati con con prodotto
+Risultati Fold 1 -->  Accuracy modello: 0.5175879396984925 | Accuracy baseline: 0.5062814070351759  
+Risultati Fold 2 -->  Accuracy modello: 0.5552763819095478 | Accuracy baseline: 0.45226130653266333  
+Risultati Fold 3 -->  Accuracy modello: 0.5207547169811321 | Accuracy baseline: 0.5031446540880503  
+Risultati Fold 4 -->  Accuracy modello: 0.48930817610062893 | Accuracy baseline: 0.47924528301886793  
+Risultati Fold 5 -->  Accuracy modello: 0.5182389937106918 | Accuracy baseline: 0.5069182389937107  
+Media: 0.5202332416800985
+Considerate solo parole piene, embeddings aggregati con con media SEPARATAMENTE
+Risultati Fold 1 -->  Accuracy modello: 0.628140703517588 | Accuracy baseline: 0.5062814070351759  
+Risultati Fold 2 -->  Accuracy modello: 0.6168341708542714 | Accuracy baseline: 0.45226130653266333  
+Risultati Fold 3 -->  Accuracy modello: 0.6075471698113207 | Accuracy baseline: 0.5031446540880503  
+Risultati Fold 4 -->  Accuracy modello: 0.620125786163522 | Accuracy baseline: 0.47924528301886793  
+Risultati Fold 5 -->  Accuracy modello: 0.6314465408805031 | Accuracy baseline: 0.5069182389937107  
+Media: 0.620818874245441
+Considerate solo parole piene, embeddings aggregati con con somma SEPARATAMENTE
+Risultati Fold 1 -->  Accuracy modello: 0.6231155778894473 | Accuracy baseline: 0.5062814070351759  
+Risultati Fold 2 -->  Accuracy modello: 0.6193467336683417 | Accuracy baseline: 0.45226130653266333  
+Risultati Fold 3 -->  Accuracy modello: 0.6427672955974842 | Accuracy baseline: 0.5031446540880503  
+Risultati Fold 4 -->  Accuracy modello: 0.6251572327044025 | Accuracy baseline: 0.47924528301886793  
+Risultati Fold 5 -->  Accuracy modello: 0.6415094339622641 | Accuracy baseline: 0.5069182389937107  
+Media: 0.630379254764388
+
+Considerate solo parole piene, embeddings aggregati con con prod SEPARATAMENTE
+Risultati Fold 1 -->  Accuracy modello: 0.5552763819095478 | Accuracy baseline: 0.5062814070351759  
+Risultati Fold 2 -->  Accuracy modello: 0.5552763819095478 | Accuracy baseline: 0.45226130653266333  
+Risultati Fold 3 -->  Accuracy modello: 0.5220125786163522 | Accuracy baseline: 0.5031446540880503  
+Risultati Fold 4 -->  Accuracy modello: 0.5345911949685535 | Accuracy baseline: 0.47924528301886793  
+Risultati Fold 5 -->  Accuracy modello: 0.5723270440251572 | Accuracy baseline: 0.5069182389937107  
+Media: 0.5478967162858317
