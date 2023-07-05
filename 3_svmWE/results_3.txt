@@ -54,7 +54,6 @@ Risultati Fold 3 -->  Accuracy modello: 0.6427672955974842 | Accuracy baseline: 
 Risultati Fold 4 -->  Accuracy modello: 0.6251572327044025 | Accuracy baseline: 0.47924528301886793  
 Risultati Fold 5 -->  Accuracy modello: 0.6415094339622641 | Accuracy baseline: 0.5069182389937107  
 Media: 0.630379254764388
-
 Considerate solo parole piene, embeddings aggregati con con prod SEPARATAMENTE
 Risultati Fold 1 -->  Accuracy modello: 0.5552763819095478 | Accuracy baseline: 0.5062814070351759  
 Risultati Fold 2 -->  Accuracy modello: 0.5552763819095478 | Accuracy baseline: 0.45226130653266333  
