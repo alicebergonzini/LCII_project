@@ -1,0 +1,570 @@
+Configurazione: Batch-size = 8, Learning-rate = 1e-05, Weight-decay = 0.01
+Training loss:
+0    0.6479
+1    0.5408
+2    0.4579
+3    0.3695
+4    0.3033
+Name: loss, dtype: float64
+ Validation loss:
+ 0    0.576481
+1    0.508920
+2    0.550150
+3    0.602003
+4    0.610194
+Name: eval_loss, dtype: float64
+ F1-score
+: 0    0.694737
+1    0.771084
+2    0.745308
+3    0.727763
+4    0.745501
+Name: eval_f1, dtype: float64
+ Accuracy
+: 0    0.708543
+1    0.761307
+2    0.761307
+3    0.746231
+4    0.751256
+Name: eval_accuracy, dtype: float64
+------------------------------------------------------------------------------------------
+Configurazione: Batch-size = 8, Learning-rate = 0.001, Weight-decay = 0.01
+Training loss:
+ 0    0.7311
+1    0.7105
+2    0.7009
+3    0.6969
+4    0.6949
+Name: loss, dtype: float64
+ Validation loss:
+ 0    0.694915
+1    0.712489
+2    0.693136
+3    0.693250
+4    0.694122
+Name: eval_loss, dtype: float64
+ F1-score:
+ 0    0.66443
+1    0.66443
+2    0.00000
+3    0.00000
+4    0.66443
+Name: eval_f1, dtype: float64
+ Accuracy:
+ 0    0.497487
+1    0.497487
+2    0.502513
+3    0.502513
+4    0.497487
+Name: eval_accuracy, dtype: float64
+------------------------------------------------------------------------------------------
+Configurazione: Batch-size = 16, Learning-rate = 1e-05, Weight-decay = 0.01
+Training loss:
+ 0    0.6563
+1    0.5952
+2    0.5426
+3    0.4945
+4    0.4615
+Name: loss, dtype: float64
+ Validation loss:
+ 0    0.600679
+1    0.568074
+2    0.593633
+3    0.591630
+4    0.574659
+Name: eval_loss, dtype: float64
+ F1-score:
+ 0    0.690476
+1    0.694789
+2    0.676056
+3    0.692308
+4    0.710875
+Name: eval_f1, dtype: float64
+ Accuracy:
+ 0    0.673367
+1    0.690955
+2    0.711055
+3    0.718593
+4    0.726131
+Name: eval_accuracy, dtype: float64
+------------------------------------------------------------------------------------------
+Configurazione: Batch-size = 16, Learning-rate = 0.001, Weight-decay = 0.01
+Training loss:
+ 0    0.7412
+1    0.7119
+2    0.7040
+3    0.7009
+4    0.6970
+Name: loss, dtype: float64
+ Validation loss:
+ 0    0.694163
+1    0.732109
+2    0.700504
+3    0.694006
+4    0.694466
+Name: eval_loss, dtype: float64
+ F1-score:
+ 0    0.00000
+1    0.66443
+2    0.00000
+3    0.00000
+4    0.66443
+Name: eval_f1, dtype: float64
+ Accuracy:
+ 0    0.502513
+1    0.497487
+2    0.502513
+3    0.502513
+4    0.497487
+Name: eval_accuracy, dtype: float64
+------------------------------------------------------------------------------------------
+Configurazione: Batch-size = 32, Learning-rate = 1e-05, Weight-decay = 0.01
+Training loss:
+ 0    0.6710
+1    0.6040
+2    0.5328
+3    0.4908
+4    0.4598
+Name: loss, dtype: float64
+ Validation loss:
+ 0    0.644984
+1    0.595099
+2    0.573425
+3    0.573002
+4    0.580738
+Name: eval_loss, dtype: float64
+ F1-score:
+ 0    0.635731
+1    0.670157
+2    0.656716
+3    0.693767
+4    0.681948
+Name: eval_f1, dtype: float64
+ Accuracy:
+ 0    0.605528
+1    0.683417
+2    0.711055
+3    0.716080
+4    0.721106
+Name: eval_accuracy, dtype: float64
+------------------------------------------------------------------------------------------
+Configurazione: Batch-size = 32, Learning-rate = 0.001, Weight-decay = 0.01
+Training loss:
+ 0    0.7811
+1    0.7139
+2    0.7064
+3    0.7010
+4    0.7028
+Name: loss, dtype: float64
+ Validation loss:
+ 0    0.768126
+1    0.725758
+2    0.696391
+3    0.700208
+4    0.694408
+Name: eval_loss, dtype: float64
+ F1-score:
+ 0    0.00000
+1    0.66443
+2    0.00000
+3    0.00000
+4    0.66443
+Name: eval_f1, dtype: float64
+ Accuracy:
+ 0    0.502513
+1    0.497487
+2    0.502513
+3    0.502513
+4    0.497487
+Name: eval_accuracy, dtype: float64
+------------------------------------------------------------------------------------------
+Configurazione: Batch-size = 8, Learning-rate = 1e-05, Weight-decay = 0.1
+Training loss:
+ 0    0.6478
+1    0.5463
+2    0.4669
+3    0.3881
+4    0.3322
+Name: loss, dtype: float64
+ Validation loss:
+ 0    0.569524
+1    0.509550
+2    0.542724
+3    0.570500
+4    0.585463
+Name: eval_loss, dtype: float64
+ F1-score:
+ 0    0.685139
+1    0.761229
+2    0.726257
+3    0.753316
+4    0.763158
+Name: eval_f1, dtype: float64
+ Accuracy:
+ 0    0.685930
+1    0.746231
+2    0.753769
+3    0.766332
+4    0.773869
+Name: eval_accuracy, dtype: float64
+------------------------------------------------------------------------------------------
+Configurazione: Batch-size = 8, Learning-rate = 0.001, Weight-decay = 0.1
+Training loss:
+ 0    0.7317
+1    0.7104
+2    0.7005
+3    0.6967
+4    0.6942
+Name: loss, dtype: float64
+ Validation loss:
+ 0    0.693634
+1    0.712537
+2    0.693135
+3    0.693137
+4    0.694226
+Name: eval_loss, dtype: float64
+ F1-score:
+ 0    0.66443
+1    0.66443
+2    0.00000
+3    0.00000
+4    0.66443
+Name: eval_f1, dtype: float64
+ Accuracy:
+ 0    0.497487
+1    0.497487
+2    0.502513
+3    0.502513
+4    0.497487
+Name: eval_accuracy, dtype: float64
+------------------------------------------------------------------------------------------
+Configurazione: Batch-size = 16, Learning-rate = 1e-05, Weight-decay = 0.1
+Training loss:
+ 0    0.6533
+1    0.5803
+2    0.5194
+3    0.4665
+4    0.4349
+Name: loss, dtype: float64
+ Validation loss:
+ 0    0.589005
+1    0.564790
+2    0.581501
+3    0.593128
+4    0.585723
+Name: eval_loss, dtype: float64
+ F1-score:
+ 0    0.648649
+1    0.707617
+2    0.658960
+3    0.672222
+4    0.688347
+Name: eval_f1, dtype: float64
+ Accuracy:
+ 0    0.673367
+1    0.701005
+2    0.703518
+3    0.703518
+4    0.711055
+Name: eval_accuracy, dtype: float64
+------------------------------------------------------------------------------------------
+Configurazione: Batch-size = 16, Learning-rate = 0.001, Weight-decay = 0.1
+Training loss:
+ 0    0.7646
+1    0.7166
+2    0.7175
+3    0.7060
+4    0.7001
+Name: loss, dtype: float64
+ Validation loss:
+ 0    0.746439
+1    0.816365
+2    0.702736
+3    0.696366
+4    0.694871
+Name: eval_loss, dtype: float64
+ F1-score:
+ 0    0.00000
+1    0.66443
+2    0.00000
+3    0.00000
+4    0.66443
+Name: eval_f1, dtype: float64
+ Accuracy:
+ 0    0.502513
+1    0.497487
+2    0.502513
+3    0.502513
+4    0.497487
+Name: eval_accuracy, dtype: float64
+------------------------------------------------------------------------------------------
+Configurazione: Batch-size = 32, Learning-rate = 1e-05, Weight-decay = 0.1
+Training loss:
+ 0    0.6502
+1    0.5675
+2    0.5166
+3    0.4722
+4    0.4440
+Name: loss, dtype: float64
+ Validation loss:
+ 0    0.582014
+1    0.552795
+2    0.548281
+3    0.532957
+4    0.527155
+Name: eval_loss, dtype: float64
+ F1-score:
+ 0    0.681818
+1    0.735294
+2    0.711111
+3    0.749340
+4    0.758442
+Name: eval_f1, dtype: float64
+ Accuracy:
+ 0    0.683417
+1    0.728643
+2    0.738693
+3    0.761307
+4    0.766332
+Name: eval_accuracy, dtype: float64
+------------------------------------------------------------------------------------------
+Configurazione: Batch-size = 32, Learning-rate = 0.001, Weight-decay = 0.1
+Training loss:
+ 0    0.7651
+1    0.7117
+2    0.7082
+3    0.7061
+4    0.6968
+Name: loss, dtype: float64
+ Validation loss:
+ 0    0.726598
+1    0.777590
+2    0.695771
+3    0.705620
+4    0.694096
+Name: eval_loss, dtype: float64
+ F1-score:
+ 0    0.00000
+1    0.66443
+2    0.00000
+3    0.00000
+4    0.66443
+Name: eval_f1, dtype: float64
+ Accuracy:
+ 0    0.502513
+1    0.497487
+2    0.502513
+3    0.502513
+4    0.497487
+Name: eval_accuracy, dtype: float64
+------------------------------------------------------------------------------------------
+Configurazione: Batch-size = 8, Learning-rate = 1e-05, Weight-decay = 0.2
+Training loss:
+ 0    0.6446
+1    0.5504
+2    0.4682
+3    0.3887
+4    0.3342
+Name: loss, dtype: float64
+ Validation loss:
+ 0    0.586118
+1    0.528284
+2    0.550882
+3    0.585028
+4    0.612758
+Name: eval_loss, dtype: float64
+ F1-score:
+ 0    0.697436
+1    0.751740
+2    0.735751
+3    0.735219
+4    0.730570
+Name: eval_f1, dtype: float64
+ Accuracy:
+ 0    0.703518
+1    0.731156
+2    0.743719
+3    0.741206
+4    0.738693
+Name: eval_accuracy, dtype: float64
+------------------------------------------------------------------------------------------
+Configurazione: Batch-size = 8, Learning-rate = 1e-05, Weight-decay = 0.2
+Training loss:
+ 0    0.6224
+1    0.5175
+2    0.4237
+3    0.3444
+4    0.2883
+Name: loss, dtype: float64
+ Validation loss:
+ 0    0.485777
+1    0.477630
+2    0.484356
+3    0.528221
+4    0.551079
+Name: eval_loss, dtype: float64
+ F1-score:
+ 0    0.751323
+1    0.740157
+2    0.736842
+3    0.746032
+4    0.761905
+Name: eval_f1, dtype: float64
+ Accuracy:
+ 0    0.763819
+1    0.751256
+2    0.748744
+3    0.758794
+4    0.786432
+Name: eval_accuracy, dtype: float64
+------------------------------------------------------------------------------------------
+Configurazione: Batch-size = 8, Learning-rate = 0.001, Weight-decay = 0.2
+Training loss:
+ 0    0.7321
+1    0.7094
+2    0.7002
+3    0.6960
+4    0.6942
+Name: loss, dtype: float64
+ Validation loss:
+ 0    0.695082
+1    0.712051
+2    0.693140
+3    0.693145
+4    0.693814
+Name: eval_loss, dtype: float64
+ F1-score:
+ 0    0.66443
+1    0.66443
+2    0.00000
+3    0.00000
+4    0.66443
+Name: eval_f1, dtype: float64
+ Accuracy:
+ 0    0.497487
+1    0.497487
+2    0.502513
+3    0.502513
+4    0.497487
+Name: eval_accuracy, dtype: float64
+------------------------------------------------------------------------------------------
+Configurazione: Batch-size = 16, Learning-rate = 1e-05, Weight-decay = 0.2
+Training loss:
+ 0    0.6464
+1    0.5627
+2    0.4855
+3    0.4272
+4    0.3838
+Name: loss, dtype: float64
+ Validation loss:
+ 0    0.574204
+1    0.532868
+2    0.556710
+3    0.541411
+4    0.532381
+Name: eval_loss, dtype: float64
+ F1-score:
+ 0    0.712821
+1    0.755448
+2    0.698864
+3    0.711590
+4    0.759690
+Name: eval_f1, dtype: float64
+ Accuracy:
+ 0    0.718593
+1    0.746231
+2    0.733668
+3    0.731156
+4    0.766332
+Name: eval_accuracy, dtype: float64
+------------------------------------------------------------------------------------------
+Configurazione: Batch-size = 16, Learning-rate = 0.001, Weight-decay = 0.2
+Training loss:
+ 0    0.7463
+1    0.7206
+2    0.7184
+3    0.7068
+4    0.6997
+Name: loss, dtype: float64
+ Validation loss:
+ 0    0.693166
+1    0.833310
+2    0.702258
+3    0.696975
+4    0.694732
+Name: eval_loss, dtype: float64
+ F1-score:
+ 0    0.66443
+1    0.66443
+2    0.00000
+3    0.00000
+4    0.66443
+Name: eval_f1, dtype: float64
+ Accuracy:
+ 0    0.497487
+1    0.497487
+2    0.502513
+3    0.502513
+4    0.497487
+Name: eval_accuracy, dtype: float64
+------------------------------------------------------------------------------------------
+Configurazione: Batch-size = 32, Learning-rate = 1e-05, Weight-decay = 0.2
+Training loss:
+ 0    0.6494
+1    0.5657
+2    0.5117
+3    0.4659
+4    0.4393
+Name: loss, dtype: float64
+ Validation loss:
+ 0    0.579845
+1    0.550766
+2    0.548128
+3    0.532726
+4    0.527024
+Name: eval_loss, dtype: float64
+ F1-score:
+ 0    0.698020
+1    0.728606
+2    0.718232
+3    0.744063
+4    0.753247
+Name: eval_f1, dtype: float64
+ Accuracy:
+ 0    0.693467
+1    0.721106
+2    0.743719
+3    0.756281
+4    0.761307
+Name: eval_accuracy, dtype: float64
+------------------------------------------------------------------------------------------
+Configurazione: Batch-size = 32, Learning-rate = 0.001, Weight-decay = 0.2
+Training loss:
+ 0    0.7738
+1    0.7123
+2    0.7056
+3    0.7045
+4    0.6960
+Name: loss, dtype: float64
+ Validation loss:
+ 0    0.711228
+1    0.737802
+2    0.693198
+3    0.706345
+4    0.694079
+Name: eval_loss, dtype: float64
+ F1-score:
+ 0    0.00000
+1    0.66443
+2    0.00000
+3    0.00000
+4    0.66443
+Name: eval_f1, dtype: float64
+ Accuracy:
+ 0    0.502513
+1    0.497487
+2    0.502513
+3    0.502513
+4    0.497487
+Name: eval_accuracy, dtype: float64
+------------------------------------------------------------------------------------------
