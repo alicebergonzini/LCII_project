@@ -9,4 +9,5 @@ Il progetto consiste nello sviluppo, nella valutazione e nel testing di diversi 
 - features di Linguistic Profiling
 - n-grammi
 - word embedding
+  
 Inoltre, è stato svolto un processo di fine-tuning sul modello pre-addestrato di BERT italiano.
